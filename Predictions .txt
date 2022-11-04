@@ -1,0 +1,18 @@
+To study or examine something in detail of the Dataset given to us. We conclude that-:
+
+The Model we are choose ----> Linear Regression Model 
+                              Polynomial Regression 
+                              Decision Tree
+                              Random Forest Model with Depth = 10
+                              Random Forest Model with Depth = 50
+                              
+                           ERROR given by the model
+Linear Regression give us an error of ----> 0.9085106457296475
+Decision Tree Model give us an error of -----> 0.006366175370728088
+Polynomial Regression give us an error of -----> 0.14787060478902114
+Random Forest Model with Depth is equal 10 ------> 0.008203689587759865 ---> |  They Both give 
+Random Forest Model with Depth is equal 50 ------> 0.008203689587759865 ---> |   same error 
+
+
+
+So To Predict we use the Decision Tree Model of of Best Prediction 
